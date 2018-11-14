@@ -16,7 +16,7 @@ namespace ConvertToFareMaria
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ConvertToFareForm());
+            Application.Run(new frmConvertToFahre());
         }
     }
 }
